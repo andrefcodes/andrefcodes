@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Andre. A tech enthusiast, computer science student, and an indieweb newcomer.
+
+I’ve worked with tech and infosec for over a decade, and now I’m studing how to program.
+
+***
 
 <!--
-**fox73987/fox73987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Posts from my blog
+
+Here are the [latest posts](https://afhub.dev/) from my blog.
+
+<!--
+### Some stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox73987&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=fox73987&custom_title=Andre's%20Github%20Stats&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
