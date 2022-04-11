@@ -14,6 +14,7 @@ I’ve worked with tech and infosec for over a decade, and now I’m studing how
 
 Here are the [latest posts](https://afhub.dev/) from my blog.
 
+***
 
 ## Some stats
 
