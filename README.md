@@ -22,5 +22,8 @@ Here are the [latest posts](https://afhub.dev/) from my blog.
 
 [![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=fox73987&custom_title=Andre's%20Github%20Stats&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
+Mastodon Verified Link
+<a rel="me" href="https://mas.to/@af"></a>
+-->
 
