@@ -12,7 +12,7 @@ I’ve worked with tech and infosec for over a decade, and now I’m studing how
 
 ## Posts from my blog
 
-Here are the [latest posts](https://afhub.dev/) from my blog.
+Here are the [latest posts](https://afhub.dev/) from my blog and the [rss feed](https://afhub.dev/feed.xml/).
 
 ***
 
