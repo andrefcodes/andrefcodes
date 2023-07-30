@@ -1,6 +1,6 @@
 I'm Andre, a tech enthusiast.
 
-## Posts from my blog
+**Posts from my blog**
 
 * [Latest posts](https://abf.li/)
 
