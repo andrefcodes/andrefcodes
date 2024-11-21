@@ -1,4 +1,4 @@
-I'm Andre, a tech enthusiast.
+## Hey, my name is Andre, a tech enthusiast.
 
 **Posts / Notes from my blog**
 
