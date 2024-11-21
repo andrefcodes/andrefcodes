@@ -1,7 +1,7 @@
 I'm Andre, a tech enthusiast.
 
-**Posts from my blog**
+**Posts / Notes from my blog**
 
-* [Latest posts](https://abf.li/)
+* [Latest Posts](https://abf.li/) / [Latest Notes](https://abf.li/notes)
 
-* [RSS feed](https://abf.li/feed.xml)
+* [Posts RSS feed](https://abf.li/feed.xml) / [Notes RSS Feed](https://abf.li/notes.xml)
