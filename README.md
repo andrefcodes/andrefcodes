@@ -1,5 +1,7 @@
 ## Hey, my name is Andre, a tech enthusiast.
 
+* [Follow me on Mastodon](https://mas.to/@abf)
+
 **Posts / Notes from my blog**
 
 * [Latest Posts](https://abf.li/) / [Latest Notes](https://abf.li/notes)
