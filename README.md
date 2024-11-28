@@ -1,4 +1,4 @@
-## Hey, my name is Andre, a tech enthusiast.
+## Hi, I'm Andre!
 
 * [Follow me on Mastodon](https://mas.to/@abf)
 
