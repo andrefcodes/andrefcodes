@@ -1,6 +1,6 @@
 ## Hi, I'm Andre!
 
-* [Follow me on Mastodon](https://mas.to/@abf)
+* [Follow me on the Fediverse](https://social.abf.li/@andre)
 
 **Posts / Notes from my blog**
 
