@@ -1,9 +1,7 @@
-## Hi, I'm Andre!
+I'm Andre, a tech nerd and open source enthusiast.
 
-* [Follow me on the Fediverse](https://social.abf.li/@andre)
+[Follow me on the fediverse](https://social.abf.li/@andre)  
+[Read my latest blog posts](https://abf.li/)  
+[Code hosted on sourcehut](https://git.sr.ht/~abf/)
 
-**Posts / Notes from my blog**
-
-* [Latest Posts](https://abf.li/) / [Latest Notes](https://abf.li/notes)
-
-* [Posts RSS feed](https://abf.li/feed.xml) / [Notes RSS Feed](https://abf.li/notes.xml)
+Brazil 🇧🇷
