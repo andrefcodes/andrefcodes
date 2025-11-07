@@ -1,7 +1,9 @@
 I'm Andre, a tech nerd and open source enthusiast.
 
-[Follow me on the fediverse](https://social.abf.li/@andre)  
-[Read my latest blog posts](https://abf.li/)  
+Keep up with my latest blog posts by inserting my [RSS feed](https://afranca.com.br/feed/) on your favorite reader;
+
+Follow me on the fediverse by searching for [@af@afranca.com.br](https://afranca.com.br/@/af@afranca.com.br).
+
 [Code hosted on sourcehut](https://git.sr.ht/~abf/)
 
 Brazil 🇧🇷
