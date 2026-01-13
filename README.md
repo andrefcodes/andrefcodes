@@ -4,6 +4,4 @@ Keep up with my latest blog posts by inserting my [RSS feed](https://afranca.com
 
 Follow me on the fediverse by searching for @andre@afranca.com.br or @abf@mas.to.
 
-[Code hosted on sourcehut](https://git.sr.ht/~abf/)
-
 Brazil 🇧🇷
